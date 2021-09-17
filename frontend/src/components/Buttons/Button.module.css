@@ -1,0 +1,41 @@
+.button {
+    outline: none;
+    border: none;
+    color: black;
+    padding: 8px 15px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 3px;
+}
+.primary {
+    background-color: rgb(57, 60, 201);
+    color: rgb(226, 227, 231);
+}
+.primary:hover {
+    background-color: rgb(39, 40, 146);
+    color: white;
+}
+.secondary {
+    background-color: rgb(63, 63, 78);
+    color: rgb(226, 227, 231);
+}
+.secondary:hover {
+    background-color: rgb(40, 40, 44);
+    color: rgb(255, 255, 255);
+}
+.danger {
+    background-color: rgb(163, 54, 50);
+    color: rgb(226, 227, 231);
+}
+.danger:hover {
+    background-color: rgb(156, 29, 24);
+    color: rgb(255, 255, 255);
+}
+.success {
+    background-color: rgb(42, 163, 92);
+    color: rgb(226, 227, 231);
+}
+.success:hover {
+    background-color: rgb(20, 124, 64);
+    color: rgb(255, 255, 255);
+}

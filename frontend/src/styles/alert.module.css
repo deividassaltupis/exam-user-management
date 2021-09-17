@@ -1,0 +1,12 @@
+.alert {
+    padding: 10px;
+    border-radius: 5px;
+}
+.danger {
+    border: 1px solid rgb(126, 16, 16);
+    color: rgb(126, 16, 16);
+}
+.success {
+    border: 1px solid rgb(7, 100, 43);
+    color: rgb(7, 100, 43);
+}

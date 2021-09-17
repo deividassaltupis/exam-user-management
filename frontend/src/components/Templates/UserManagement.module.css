@@ -1,0 +1,42 @@
+.userManagementBox {
+    border: 1px solid rgb(226, 226, 255);
+    background-color: rgb(242, 252, 255);
+    border-radius: 5px;
+    padding: 30px;
+}
+.userManagementBox h2 {
+    padding: 10px 0px 30px 0px;
+}
+.table {
+    border: 1px solid rgb(198, 198, 255);
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+}
+.table thead tr th {
+    border-bottom: 1px solid rgb(198, 198, 255);
+    font-weight: 400;
+    padding: 8px 0;
+    text-align: left;
+}
+.table thead tr th:last-child {
+    text-align: right;
+}
+.table tbody tr td:last-child {
+    text-align: right;
+}
+
+.infoAlert {
+    border: 1px solid rgb(41, 122, 228);
+    background-color: white;
+    padding: 12px 10px;
+    font-size: 14px;
+    margin: 20px 0;
+    display: flex;
+    align-items: center;
+}
+.infoAlert span {
+    margin-left: 10px;
+}
+.redText {
+    color: red;
+}
