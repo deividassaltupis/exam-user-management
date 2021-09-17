@@ -7,7 +7,8 @@ FRONTEND Application instructions.
 1. Download "frontend" folder.
 2. Navigate to "frontend" directory (cmd: "cd ./frontend").
 3. Install node modules (cmd: "npm i").
-4. Run application (cmd: "npm start").
+4. If BACKEND server will be hosted, go to: "/frontend/src/utils/endpoints.js" and edit server adress URI. (SERVER_ADRESS = "http://server_adress_here").
+5. Run application (cmd: "npm start").
 
 BACKEND Application instructions.
 
